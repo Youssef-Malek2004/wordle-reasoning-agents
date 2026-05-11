@@ -50,8 +50,8 @@ You'll need an OpenRouter API key (the notebook also has commented-out blocks fo
 
 ```bash
 # 1. Clone and enter
-git clone https://github.com/Youssef-Malek2004/genai-assignment-2.git
-cd genai-assignment-2
+git clone https://github.com/Youssef-Malek2004/wordle-reasoning-agents.git
+cd wordle-reasoning-agents
 
 # 2. Set up the API key
 cp .env.example .env
